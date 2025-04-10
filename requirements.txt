@@ -3,3 +3,4 @@ joblib
 cryptography
 pandas
 torch
+transformers
