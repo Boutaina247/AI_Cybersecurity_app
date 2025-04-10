@@ -1,5 +1,10 @@
 # AI Cybersecurity Application
 
+Groupe : 
+- Boutaina Belghiti
+- Meriem Hanane
+- Moubarak ISSA
+
 This project demonstrates sentiment analysis using Natural Language Processing (NLP) and encryption for secure data access. The app is designed for different user roles with different access levels.
 
 ## Features
