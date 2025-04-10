@@ -1,5 +1,5 @@
 streamlit==1.16.0
-joblib==1.2.0
+joblib
 cryptography==38.0.1
 pandas==1.5.3
 torch==1.13.1
